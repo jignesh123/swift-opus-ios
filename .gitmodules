@@ -1,3 +1,4 @@
 [submodule "Sources/Copus"]
 	path = Sources/Copus
-	url = https://github.dev/jignesh123/opus-rtp/tree/ios-rtp.git
+	url = https://github.com/jignesh123/opus-rtp.git
+	branch = ios-rtp
